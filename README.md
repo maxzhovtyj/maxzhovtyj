@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     * Scrum methodology
 
 - Hobbies:
-    * IT related modern technologies![image](https://user-images.githubusercontent.com/69509625/165912217-5cf0bfff-f2d4-48a5-8575-4f7da6b19190.png)
+    * IT related modern technologies
     * Team sports (football, volleyball)
     * Films, books, series 
 
