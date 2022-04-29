@@ -24,19 +24,19 @@ Here are some ideas to get you started:
     
 - 🌱 I’m currently learning:
     * Backend: 
-        Python3, Django, DjangoRestFramework
-        NodeJS, ExpressJS
+        Python3, Django, DjangoRestFramework,
+        NodeJS, ExpressJS,
         Go languange
     * Frontend:
-        HTML(5), CSS(3), JavaScript, Typescript
-        ReactJS, Redux, Redux-Thunk
+        HTML(5), CSS(3), JavaScript, Typescript,
+        ReactJS, Redux, Redux-Thunk,
         Angular2+
     * DataBases:
         MongoDB, Postgresql
     * Programming fundamentals:
-        Data structures and algorithms!
-        OOP, Design patterns
-        SOLID, KISS principles!
+        Data structures and algorithms,
+        OOP, Design patterns,
+        SOLID, KISS principles
         
 - Experience:
     * SoftServe WebUI Internship (Angular 2+) https://github.com/IT-Academy-Social-Projects-KRV/Mentor4you_Angular
