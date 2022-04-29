@@ -22,9 +22,9 @@ Here are some ideas to get you started:
     * DataBases:
         MongoDB, Postgresql
     * Programming fundamentals:
-        Data structures and algorithms![image](https://user-images.githubusercontent.com/69509625/165911068-fb94ed7f-25fe-47a4-af38-b9ba88978dda.png)
+        Data structures and algorithms!
         OOP, Design patterns
-        SOLID, KISS principles![image](https://user-images.githubusercontent.com/69509625/165911190-d706ebfe-0bed-414c-b770-4fba4f7220c5.png)
+        SOLID, KISS principles!
      
 - 💻 
     * Mac OS, Apple Silicone (M1), 256 GB SSD
