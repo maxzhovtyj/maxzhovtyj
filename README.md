@@ -25,6 +25,11 @@ Here are some ideas to get you started:
         Data structures and algorithms!
         OOP, Design patterns
         SOLID, KISS principles!
+        
+- Experience:
+    * SoftServe WebUI Internship (Angular 2+) https://github.com/IT-Academy-Social-Projects-KRV/Mentor4you_Angular
+    * Social Network pet project (MERN stack) https://github.com/zh0vtyj/SOCIAL.IO-client
+
      
 - 💻 
     * Mac OS, Apple Silicone (M1), 256 GB SSD
