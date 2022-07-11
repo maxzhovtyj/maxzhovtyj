@@ -24,9 +24,8 @@ Here are some ideas to get you started:
     
 - 🌱 I’m currently learning:
     * Backend: 
-        Python3, Django, DjangoRestFramework,
+        Go, Python3, Django, DRF,
         NodeJS, ExpressJS,
-        Go languange
     * Frontend:
         HTML(5), CSS(3), JavaScript, Typescript,
         ReactJS, Redux, Redux-Thunk,
