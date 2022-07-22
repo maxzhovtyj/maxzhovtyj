@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 🧑‍🎓 Education:
     * NTUU KPI
     * FAM, Computer Engineering
-    * 2 course
+    * 3 course
     
 - Languages:
     * English (Intermediate)
@@ -24,8 +24,7 @@ Here are some ideas to get you started:
     
 - 🌱 I’m currently learning:
     * Backend: 
-        Go, Python3, Django, DRF,
-        NodeJS, ExpressJS,
+        Go, Python3
     * Frontend:
         HTML(5), CSS(3), JavaScript, Typescript,
         ReactJS, Redux, Redux-Thunk,
