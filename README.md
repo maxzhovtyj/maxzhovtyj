@@ -1,56 +1,31 @@
-### Hi there 👋
-
-<!--
-**zh0vtyj/zh0vtyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
+## Max Zhovtaniuk (@maxzhovtyj) 👋
 
 - 📫 How to reach me: 
     * Telegram: @maxzhovtyj
     * Email: zhovtyjshady@gmail.com
     
-- 📍 Location:
-    * Rivne / Kyiv
-    
+- 💻 Technology Stack
+    * Backend: 
+        **Go**
+    * Frontend:
+        **ReactJS**
+    * DataBases:
+        **MongoDB, Postgresql**
+    * Programming fundamentals:
+        **Data structures and algorithms,
+        OOP, Design patterns,
+        SOLID, KISS principles**
+        
 - 🧑‍🎓 Education:
     * NTUU KPI
     * FAM, Computer Engineering
     * 3 course
-    
-- Languages:
-    * English (Intermediate)
-    * Ukraine
-    
-- 🌱 I’m currently learning:
-    * Backend: 
-        Go, Python3
-    * Frontend:
-        HTML(5), CSS(3), JavaScript, Typescript,
-        ReactJS, Redux, Redux-Thunk,
-        Angular2+
-    * DataBases:
-        MongoDB, Postgresql
-    * Programming fundamentals:
-        Data structures and algorithms,
-        OOP, Design patterns,
-        SOLID, KISS principles
         
-- Practical Experience:
+- 💼 Portfolio:
     * SoftServe WebUI Internship (Angular 2+) https://github.com/IT-Academy-Social-Projects-KRV/Mentor4you_Angular
     * Social Network pet project (MERN stack) https://github.com/zh0vtyj/SOCIAL.IO-client
     * Online shop (Go + Postgresql) backend https://github.com/zh0vtyj/allincecup-server
      
-- 💻 
-    * Mac OS, Apple Silicone (M1), 256 GB SSD
-   
-- IT related things:
-    * Linux(basic), Windows
-    * WebStorm, PyCharm, GoLand, VScode
-    * Docker experience
-    * ESLint, Prettier 
-    * Scrum methodology
-
 - Hobbies:
     * IT related modern technologies
     * Team sports (football, volleyball)
