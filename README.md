@@ -1,6 +1,6 @@
 ## Max Zhovtaniuk (@maxzhovtyj) 👋
 
-- 💻 Technology Stack: **Go**, **ReactJS**, **MongoDB, Postgresql**
+- 💻 Technology Stack: **Go**, **Python**, **ReactJS**, **MongoDB, Postgresql**
 - 📫 [Telegram](https://t.me/maxzhovtyj) | [LinkedIn](https://www.linkedin.com/in/maksym-zhovtaniuk-2b94651b4/) | [Instagram](https://www.instagram.com/maxzhovtyj/)
 - 🔥 IT related modern technologies, football, films, books, series 
 
